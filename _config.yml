@@ -1,0 +1,28 @@
+name: VR PET
+favicon: null
+layout_spectrum: 0.16295338072814047
+typography_spectrum: 0.6190453078597784
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6503108595497906
+  lightness: 0.08754976699128747
+  saturation: 0.7937701623886824
+  rhythmicContrast: 0.4412172883749008
+purpose: []
