@@ -4,8 +4,15 @@
         <description><![CDATA[Virtual Reality Pet]]></description>
         <link>https://thegrid.ai/vr-pet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 17:48:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 17:54:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vr-pet/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>What is Augmented Reality?</p>]]></description>
+            <link>https://thegrid.ai/vr-pet/what-is-augmented-reality/index.html</link>
+            <guid isPermaLink="false">eef199de-673a-49cc-93a9-38b32402542a</guid>
+            <pubDate>Sat, 19 Mar 2016 17:54:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>VR Pet is an augmented reality pet that can have in your home! You can choose from a variety of animals to raise from birth, after naming and dressing your pet you will have to train the pet and take care of him throughout his or her life.</p>]]></description>
