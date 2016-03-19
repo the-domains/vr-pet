@@ -4,7 +4,7 @@
         <description><![CDATA[Virtual Reality Pet]]></description>
         <link>https://thegrid.ai/vr-pet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 18:04:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 18:11:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vr-pet/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What is Augmented Reality?]]></title>
@@ -33,13 +33,6 @@
             <link>https://thegrid.ai/vr-pet/e1eaf925-5b4b-4f4e-bbd7-e1c3153c35fc/index.html</link>
             <guid isPermaLink="false">e1eaf925-5b4b-4f4e-bbd7-e1c3153c35fc</guid>
             <pubDate>Sat, 19 Mar 2016 17:39:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7447a2f7-514c-4a1a-ae55-9f1e9a56e4ad.png">]]></description>
-            <link>https://thegrid.ai/vr-pet/6c757587-d656-48f6-90a7-c8f65d7ecd60/index.html</link>
-            <guid isPermaLink="false">6c757587-d656-48f6-90a7-c8f65d7ecd60</guid>
-            <pubDate>Tue, 01 Mar 2016 05:55:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
