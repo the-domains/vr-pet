@@ -1,7 +1,7 @@
 name: VR PET
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.6190453078597784
+layout_spectrum: 0.25073
+typography_spectrum: 0.31151
 title: Virtual Reality Pet
 cta:
   domain: null
