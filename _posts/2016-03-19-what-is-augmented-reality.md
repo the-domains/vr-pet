@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: What is Augmented Reality?
-datePublished: '2016-03-19T17:54:25.644Z'
-dateModified: '2016-03-19T17:54:07.959Z'
+datePublished: '2016-03-19T17:57:47.223Z'
+dateModified: '2016-03-19T17:54:27.395Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-19-what-is-augmented-reality.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-19-what-is-augmented-reality.md
-published: true
 url: what-is-augmented-reality/index.html
 _type: Article
 
