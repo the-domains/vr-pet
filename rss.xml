@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[VR PET]]></title>
-        <description><![CDATA[VR PET]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Virtual Reality Pet]]></title>
+        <description><![CDATA[Virtual Reality Pet]]></description>
+        <link>https://thegrid.ai/vr-pet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 05:55:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 19 Mar 2016 17:39:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vr-pet/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4f3c93c-2445-40b5-b882-aaabb946bf3b.gif">]]></description>
+            <link>https://thegrid.ai/vr-pet/e1eaf925-5b4b-4f4e-bbd7-e1c3153c35fc/index.html</link>
+            <guid isPermaLink="false">e1eaf925-5b4b-4f4e-bbd7-e1c3153c35fc</guid>
+            <pubDate>Sat, 19 Mar 2016 17:39:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7447a2f7-514c-4a1a-ae55-9f1e9a56e4ad.png">]]></description>
-            <link>undefined6c757587-d656-48f6-90a7-c8f65d7ecd60/index.html</link>
+            <link>https://thegrid.ai/vr-pet/6c757587-d656-48f6-90a7-c8f65d7ecd60/index.html</link>
             <guid isPermaLink="false">6c757587-d656-48f6-90a7-c8f65d7ecd60</guid>
             <pubDate>Tue, 01 Mar 2016 05:55:03 GMT</pubDate>
         </item>
